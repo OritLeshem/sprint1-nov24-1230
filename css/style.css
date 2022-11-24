@@ -1,0 +1,22 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+.cell {
+  width: 40px;
+  height: 40px;
+  text-align: center;
+}
+.lives {
+  display: flex;
+}
+.heart {
+  margin-left: 5px;
+}
+.unshown {
+  background-color: gray;
+}
+.level-container {
+  margin-bottom: 10px;
+}
